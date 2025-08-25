@@ -1,0 +1,129 @@
+{
+  "disease_keywords": {
+    "common_cold": [
+      "cough",
+      "runny",
+      "nose",
+      "sneeze",
+      "sneezing",
+      "sore",
+      "throat",
+      "congestion"
+    ],
+    "migraine": [
+      "headache",
+      "throbbing",
+      "light",
+      "sensitivity",
+      "aura",
+      "nausea"
+    ],
+    "urinary_tract_infection": [
+      "burning",
+      "urination",
+      "frequent",
+      "pee",
+      "urgency",
+      "cloudy"
+    ],
+    "acid_reflux": [
+      "heartburn",
+      "acid",
+      "reflux",
+      "regurgitation",
+      "bitter",
+      "chest"
+    ],
+    "seasonal_allergy": [
+      "itchy",
+      "eyes",
+      "pollen",
+      "sneezing",
+      "runny",
+      "nose",
+      "wheeze"
+    ]
+  },
+  "guidelines": {
+    "common_cold": {
+      "recommended_meds": [
+        {
+          "name": "Paracetamol (Acetaminophen)",
+          "class": "Analgesic/antipyretic",
+          "dose": {
+            "demo_only": true,
+            "per_kg_mg": null,
+            "fixed_mg": null,
+            "frequency": "as per guideline",
+            "duration_days": null
+          },
+          "notes": "Placeholder. Replace with guideline-backed dosing for fever/pain relief."
+        },
+        {
+          "name": "Nasal saline irrigation",
+          "class": "Supportive care",
+          "dose": {
+            "demo_only": true
+          },
+          "notes": "Placeholder supportive measure."
+        }
+      ]
+    },
+    "migraine": {
+      "recommended_meds": [
+        {
+          "name": "Ibuprofen",
+          "class": "NSAID",
+          "dose": {
+            "demo_only": true
+          },
+          "notes": "Placeholder. Avoid if ulcer risk or NSAID allergy."
+        },
+        {
+          "name": "Triptan (class example)",
+          "class": "Triptan",
+          "dose": {
+            "demo_only": true
+          },
+          "notes": "Placeholder. Contraindications apply."
+        }
+      ]
+    },
+    "urinary_tract_infection": {
+      "recommended_meds": [
+        {
+          "name": "Nitrofurantoin",
+          "class": "Antibiotic",
+          "dose": {
+            "demo_only": true
+          },
+          "notes": "Placeholder. Only per guideline and local resistance data."
+        }
+      ]
+    },
+    "acid_reflux": {
+      "recommended_meds": [
+        {
+          "name": "Omeprazole",
+          "class": "PPI",
+          "dose": {
+            "demo_only": true
+          },
+          "notes": "Placeholder. Use per guideline."
+        }
+      ]
+    },
+    "seasonal_allergy": {
+      "recommended_meds": [
+        {
+          "name": "Cetirizine",
+          "class": "Antihistamine",
+          "dose": {
+            "demo_only": true
+          },
+          "notes": "Placeholder. Sedation possible."
+        }
+      ]
+    }
+  }
+}
