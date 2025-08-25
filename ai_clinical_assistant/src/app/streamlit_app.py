@@ -1,11 +1,108 @@
 import sys
 import os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
 import json
 import streamlit as st
 from typing import List, Dict
+
+# Ensure current directory is in the path
+sys.path.append(os.path.dirname(__file__))
+
+# Import local modules
 from inference import Predictor
 from safety import detect_red_flags, allergy_filter
+
+import sys
+import os
+import json
+import streamlit as st
+from typing import List, Dict
+
+# Ensure current directory is in the path
+sys.path.append(os.path.dirname(__file__))
+
+# Import local modules
+from inference import Predictor
+from safety import detect_red_flags, allergy_filter
+
+import sys
+import os
+import json
+import streamlit as st
+from typing import List, Dict
+
+# Ensure current directory is in the path
+sys.path.append(os.path.dirname(__file__))
+
+# Import local modules
+from inference import Predictor
+from safety import detect_red_flags, allergy_filter
+h.dirname(__file__), '../..')))
+import sys
+import os
+import json
+import streamlit as st
+from typing import List, Dict
+
+# Ensure current directory is in the path
+sys.path.append(os.path.dirname(__file__))
+
+# Import local modules
+from inference import Predictor
+from safety import detect_red_flags, allergy_filter
+
+import sys
+import os
+import json
+import streamlit as st
+from typing import List, Dict
+
+# Ensure current directory is in the path
+sys.path.append(os.path.dirname(__file__))
+
+# Import local modules
+from inference import Predictor
+from safety import detect_red_flags, allergy_filter
+
+import sys
+import os
+import json
+import streamlit as st
+from typing import List, Dict
+
+# Ensure current directory is in the path
+sys.path.append(os.path.dirname(__file__))
+
+# Import local modules
+from inference import Predictor
+from safety import detect_red_flags, allergy_filter
+
+import sys
+import os
+import json
+import streamlit as st
+from typing import List, Dict
+
+# Ensure current directory is in the path
+sys.path.append(os.path.dirname(__file__))
+
+# Import local modules
+from inference import Predictor
+from safety import detect_red_flags, allergy_filter
+
+import sys
+import os
+import json
+import streamlit as st
+from typing import List, Dict
+
+# Ensure current directory is in the path
+sys.path.append(os.path.dirname(__file__))
+
+# Import local modules
+from inference import Predictor
+from safety import detect_red_flags, allergy_filter
+
+
 
 st.set_page_config(page_title="AI Diagnostic & Rx Assistant — Demo", layout="centered")
 
