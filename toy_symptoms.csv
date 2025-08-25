@@ -1,0 +1,41 @@
+symptoms_text,disease
+"runny nose with sneezing and mild cough, no fever",common_cold
+"sore throat and nasal congestion, watery eyes",common_cold
+sneezing a lot and stuffy nose after cold weather,common_cold
+"mild cough, throat irritation, and runny nose",common_cold
+"blocked nose, sneezing, little headache",common_cold
+scratchy throat and clear nasal discharge,common_cold
+cold symptoms with congestion and mild fatigue,common_cold
+"runny nose and postnasal drip, cough at night",common_cold
+severe throbbing headache with light sensitivity,migraine
+headache on one side with nausea and aura,migraine
+pulsating headache worse with activity and bright light,migraine
+nausea vomiting and sensitivity to sound with headache,migraine
+visual aura then strong headache,migraine
+recurrent headaches with photophobia and phonophobia,migraine
+"throbbing pain and dizziness, prefers dark room",migraine
+family history of migraine with unilateral headache,migraine
+burning during urination and frequent urge to pee,urinary_tract_infection
+painful urination with urgency and cloudy urine,urinary_tract_infection
+pelvic discomfort and frequent urination,urinary_tract_infection
+strong urine smell and burning sensation,urinary_tract_infection
+lower abdominal pain and dysuria,urinary_tract_infection
+need to urinate often with small amounts,urinary_tract_infection
+urinary urgency and discomfort,urinary_tract_infection
+tingling pain while peeing and pressure,urinary_tract_infection
+burning chest after meals with sour taste,acid_reflux
+heartburn worse when lying down,acid_reflux
+acid coming up and throat irritation,acid_reflux
+regurgitation after spicy food and chest discomfort,acid_reflux
+bitter taste and burning behind breastbone,acid_reflux
+nighttime heartburn relieved by antacids,acid_reflux
+upper abdominal burning and belching,acid_reflux
+chest burning after coffee,acid_reflux
+itchy eyes and sneezing during pollen season,seasonal_allergy
+runny nose and watery eyes outdoors,seasonal_allergy
+sneezing and nasal itch with exposure to dust,seasonal_allergy
+wheezing and itchy throat in spring,seasonal_allergy
+nasal congestion and itchy eyes after mowing lawn,seasonal_allergy
+seasonal sneezing and clear nasal discharge,seasonal_allergy
+allergy flare with pollen and runny nose,seasonal_allergy
+sneezing fits with itchy eyes and nose,seasonal_allergy
