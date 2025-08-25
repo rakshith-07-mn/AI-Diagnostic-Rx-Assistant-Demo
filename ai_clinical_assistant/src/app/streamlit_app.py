@@ -4,8 +4,8 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')
 import json
 import streamlit as st
 from typing import List, Dict
-from src.model.inference import Predictor
-from src.safety import detect_red_flags, allergy_filter
+from inference import Predictor
+from safety import detect_red_flags, allergy_filter
 
 st.set_page_config(page_title="AI Diagnostic & Rx Assistant — Demo", layout="centered")
 
